@@ -1,1 +1,2 @@
-
+This folder stores all the scripts that will be used for chunking then embedding and then indexing, also may be FAISS index files here. Will confirm the last part 
+later when we get to it.
